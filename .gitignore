@@ -1,2 +1,5 @@
 /.venv
 mydb.db
+*.bak
+*.gitignore.bak
+
